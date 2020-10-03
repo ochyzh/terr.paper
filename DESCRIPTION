@@ -1,0 +1,10 @@
+Package: terr.paper
+Version: 0.1
+Date: 2020-09-06
+Title: Olga's scripts for the narco-terrorism paper 
+Description: Materials for Olga's paper. 
+Author: Olga Chyzh <olga.chyzh@utoronto.edu>
+Maintainer: Olga Chyzh <olga.chyzh@utoronto.edu>
+RoxygenNote: 7.1.0
+Encoding: UTF-8
+License: GPL-3
