@@ -38,7 +38,7 @@ GTD_gname<-function(data,gname){
   newvar[newvar=="Movement of the Revolutionary Left"]<-"Movement of the Revolutionary Left (MIR) (Chile)"
   newvar[newvar=="Catholic Reaction Force (CRF)"]<-"Catholic Reaction Force"
   newvar[newvar=="Loyalist Volunteer Force (LVF)"]<-"Loyalist Volunteer Forces (LVF)"
-  newvar[newvar=="Accolta Nazinuale Corsa"]<-"Resistenza Corsa"
+#  newvar[newvar=="Accolta Nazinuale Corsa"]<-"Resistenza Corsa"
   newvar[newvar=="Armata di Liberazione Naziunale"]<-"Armata di Liberazione Naziunale (ALN)"
   newvar[newvar=="Breton Revolutionary Army (ARB)"]<-"Breton Liberation Front (FLB)"
 #  newvar[newvar=="For a Revolutionary Perspective"]<-"Revolutionary Perspective"
