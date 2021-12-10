@@ -41,7 +41,7 @@ GTD_gname<-function(data,gname){
   newvar[newvar=="Accolta Nazinuale Corsa"]<-"Resistenza Corsa"
   newvar[newvar=="Armata di Liberazione Naziunale"]<-"Armata di Liberazione Naziunale (ALN)"
   newvar[newvar=="Breton Revolutionary Army (ARB)"]<-"Breton Liberation Front (FLB)"
-  newvar[newvar=="For a Revolutionary Perspective"]<-"Revolutionary Perspective"
+#  newvar[newvar=="For a Revolutionary Perspective"]<-"Revolutionary Perspective"
   newvar[newvar=="Sardinian Autonomy Movement (MAS)"]<-"Sardinian Autonomy Movement"
   newvar[newvar=="Anti-Authority Erotic Cells"]<-"Erotic Anti-authority Cells"
   newvar[newvar=="Black and Red Brigades"]<-"Black and Red Anarchist and Anti-Authoritarians Initiative (Greece)"
